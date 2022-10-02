@@ -1,0 +1,15 @@
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\bin\Debug\net6.0\MyWork.exe
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\bin\Debug\net6.0\MyWork.deps.json
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\bin\Debug\net6.0\MyWork.runtimeconfig.json
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\bin\Debug\net6.0\MyWork.dll
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\bin\Debug\net6.0\MyWork.pdb
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\MyWork.csproj.AssemblyReference.cache
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\MyWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\MyWork.AssemblyInfoInputs.cache
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\MyWork.AssemblyInfo.cs
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\MyWork.csproj.CoreCompileInputs.cache
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\MyWork.dll
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\refint\MyWork.dll
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\MyWork.pdb
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\MyWork.genruntimeconfig.cache
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\BlockResults\MyWork\obj\Debug\net6.0\ref\MyWork.dll
