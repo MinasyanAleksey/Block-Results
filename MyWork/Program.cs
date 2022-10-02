@@ -3,7 +3,7 @@
 
 //------- 1-й вариант (массив задан + без метода, по блок-схеме) -------
 
-string[] stringArray = { "Hello", "Hi", "Tuersday", "1234", "Play", "Iam", "Super", "VIP" };
+/*string[] stringArray = { "Hello", "Hi", "Tuersday", "1234", "Play", "Iam", "Super", "VIP" };
 
 int size = stringArray.Length;
 
@@ -19,4 +19,26 @@ while(i < size)
         Console.Write(newArray[i] + " "); 
     }
     i++;
+}*/
+
+
+//------- 2-й вариант (массив задан + через метод) -------
+
+void ShowArray(string[] array)
+{
+    int size = array.Length;
+    string[] newArray = new string[size];
+
+    for(int i = 0; i < size; i++)
+    {
+        if(array[i].Length <= 3)
+        {
+            newArray[i] = array[i]; //---Формируем новый массив из строк, длинна которых меньше либо равна 3 символам
+            Console.Write(newArray[i] + " ");
+        }    
+        
+    }
 }
+
+string[] stringArray = { "Hello", "Hi", "Tuersday", "1234", "Play", "Iam", "Super", "VIP" };
+ShowArray(stringArray);
